@@ -1,0 +1,17 @@
+{
+	"project_path": "/home/c-morsingher/code/kitti_vo/",
+	"sequence_path": "/home/c-morsingher/code/kitti_vo/data/kitti/01/odometry/",
+	"seqname": "01.txt",
+	"gt_seqname": "01_gt.txt",
+	"num_frames": 1101,
+	"focal": 718.856,
+	"center_x": 607.1928,
+	"center_y": 185.2157,
+	"baseline": 0.537166,
+	"min_disparity": 0.5,
+	"max_IRLS_iter": 5,
+	"th_inliers": 128,
+	"th_outliers": 640,
+	"integration_th": 1.5,
+	"max_age_th": 12
+}
